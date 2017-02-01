@@ -28,3 +28,5 @@
 4) Remove the vendor folder from Github and add it to your .gitignore file
 
 5) Integrate Twig for view management
+
+changed on the FEATURE1 merge!
