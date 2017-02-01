@@ -1,3 +1,4 @@
+new text added for feature2
 1) Edit
  -- DONE
 2) Author
@@ -28,3 +29,5 @@
 4) Remove the vendor folder from Github and add it to your .gitignore file
 
 5) Integrate Twig for view management
+
+new text added for feature2

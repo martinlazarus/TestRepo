@@ -29,4 +29,4 @@
 
 5) Integrate Twig for view management
 
-changed on the FEATURE1 merge!
+changed on the FEATURE1 merge! -- added this new text on FEATURE2
