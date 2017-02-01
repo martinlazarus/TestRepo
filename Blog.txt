@@ -1,0 +1,30 @@
+1) Edit
+ -- DONE
+2) Author
+
+3) Comments
+
+4) Search
+--------------------------------------------------------------------------------
+1) When adding a post, automatically set the 'created_at' and 'updated_at' rather than the user setting them -- DONE
+
+2) Create a table and route for adding a category
+ - DONE
+3) Add a category to a post when creating a new post
+ - DONE
+4) Allow the user to search for all posts in a specific category
+--------------------------------------------------------------------------------
+1) Create a HTML form so that people can browse to a url and add a post, rather than using Postman - DONE
+2) Create a layout file that you can use with Twig so that you don't have to copy/paste the layout into every view (http://twig.sensiolabs.org/doc/2.x/tags/extends.html)
+ - DONE
+3) Any time you use `echo` in a route, show that information in the main layout instead by rendering a view
+--------------------------------------------------------------------------------
+1) Design a DB schema for storing posts
+
+2) Implement endpoints that allow someone to create a new post
+
+3) Implement an endpoint that shows all posts in the database
+
+4) Remove the vendor folder from Github and add it to your .gitignore file
+
+5) Integrate Twig for view management
